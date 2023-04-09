@@ -1,6 +1,6 @@
 # Sofle Choc Keyboard
 
-![Sofle Choc Photo](https://i.imgur.com/MhSEAZY.jpg)
+![Sofle Choc Photo](https://i.imgur.com/MhSEAZYh.jpg)
 
 The Sofle Choc is 6×4+5 keys column-staggered split keyboard. Based on Lily58, Corne and Helix keyboards. The Sofle Choc variant uses low profile Kailh choc switches, hotswap sockets, per-key RGB using the easier to solder SK6812 Mini-E, and is fairly thin at 15mm from desktop to top of keycaps.
 
